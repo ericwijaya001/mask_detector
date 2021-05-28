@@ -1,2 +1,2 @@
-# mask_detector_web_based_flask
+# mask_detector
 mask detector python
